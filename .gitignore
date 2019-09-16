@@ -1,4 +1,0 @@
-# ignore any .log files
-# changed for class to demo the use of .gitignore
-# flipped back as class will need to
-*.log
